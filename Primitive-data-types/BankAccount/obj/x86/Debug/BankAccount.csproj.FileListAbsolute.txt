@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\BankAccount\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\BankAccount\bin\Debug\BankAccount.exe
+D:\SoftUni\Primitive-data-types\BankAccount\bin\Debug\BankAccount.pdb
+D:\SoftUni\Primitive-data-types\BankAccount\obj\x86\Debug\BankAccount.exe
+D:\SoftUni\Primitive-data-types\BankAccount\obj\x86\Debug\BankAccount.pdb

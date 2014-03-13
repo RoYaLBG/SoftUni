@@ -1,0 +1,10 @@
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateSquareRoot\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateSquareRoot\obj\x86\Debug\CalculateSquareRoot.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateSquareRoot\obj\x86\Debug\CalculateSquareRoot.pdb
+D:\SoftUni\Intro-Programming-Homework\CalculateSquareRoot\obj\x86\Debug\CalculateSquareRoot.exe
+D:\SoftUni\Intro-Programming-Homework\CalculateSquareRoot\obj\x86\Debug\CalculateSquareRoot.pdb
+D:\SoftUni\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.exe
+D:\SoftUni\Intro-Programming-Homework\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+D:\SoftUni\Intro-Programming-Homework\CalculateSquareRoot\obj\x86\Debug\ResolveAssemblyReference.cache

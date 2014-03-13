@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+D:\SoftUni\Primitive-data-types\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+D:\SoftUni\Primitive-data-types\PrintASCIITable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\PrintASCIITable\obj\x86\Debug\PrintASCIITable.exe
+D:\SoftUni\Primitive-data-types\PrintASCIITable\obj\x86\Debug\PrintASCIITable.pdb

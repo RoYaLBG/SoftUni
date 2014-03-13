@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\CheckFemale\bin\Debug\CheckFemale.exe
+D:\SoftUni\Primitive-data-types\CheckFemale\bin\Debug\CheckFemale.pdb
+D:\SoftUni\Primitive-data-types\CheckFemale\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\CheckFemale\obj\x86\Debug\CheckFemale.exe
+D:\SoftUni\Primitive-data-types\CheckFemale\obj\x86\Debug\CheckFemale.pdb

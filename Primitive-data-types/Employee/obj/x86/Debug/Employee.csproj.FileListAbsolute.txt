@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\Employee\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\Employee\bin\Debug\Employee.exe
+D:\SoftUni\Primitive-data-types\Employee\bin\Debug\Employee.pdb
+D:\SoftUni\Primitive-data-types\Employee\obj\x86\Debug\Employee.exe
+D:\SoftUni\Primitive-data-types\Employee\obj\x86\Debug\Employee.pdb

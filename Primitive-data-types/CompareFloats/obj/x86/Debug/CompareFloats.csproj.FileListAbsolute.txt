@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\CompareFloats\bin\Debug\CompareFloats.exe
+D:\SoftUni\Primitive-data-types\CompareFloats\bin\Debug\CompareFloats.pdb
+D:\SoftUni\Primitive-data-types\CompareFloats\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\CompareFloats\obj\x86\Debug\CompareFloats.exe
+D:\SoftUni\Primitive-data-types\CompareFloats\obj\x86\Debug\CompareFloats.pdb

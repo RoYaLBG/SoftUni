@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\FloatDoublePrecision\bin\Debug\FloatDoublePrecision.exe
+D:\SoftUni\Primitive-data-types\FloatDoublePrecision\bin\Debug\FloatDoublePrecision.pdb
+D:\SoftUni\Primitive-data-types\FloatDoublePrecision\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\FloatDoublePrecision\obj\x86\Debug\FloatDoublePrecision.exe
+D:\SoftUni\Primitive-data-types\FloatDoublePrecision\obj\x86\Debug\FloatDoublePrecision.pdb

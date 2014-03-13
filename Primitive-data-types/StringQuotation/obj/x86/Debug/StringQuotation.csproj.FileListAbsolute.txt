@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\StringQuotation\bin\Debug\StringQuotation.exe
+D:\SoftUni\Primitive-data-types\StringQuotation\bin\Debug\StringQuotation.pdb
+D:\SoftUni\Primitive-data-types\StringQuotation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\StringQuotation\obj\x86\Debug\StringQuotation.exe
+D:\SoftUni\Primitive-data-types\StringQuotation\obj\x86\Debug\StringQuotation.pdb

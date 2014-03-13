@@ -1,0 +1,10 @@
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintNumberSequence\bin\Debug\PrintNumberSequence.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintNumberSequence\bin\Debug\PrintNumberSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintNumberSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintNumberSequence\obj\x86\Debug\PrintNumberSequence.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintNumberSequence\obj\x86\Debug\PrintNumberSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintNumberSequence\obj\x86\Debug\PrintNumberSequence.exe
+D:\SoftUni\Intro-Programming-Homework\PrintNumberSequence\obj\x86\Debug\PrintNumberSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintNumberSequence\bin\Debug\PrintNumberSequence.exe
+D:\SoftUni\Intro-Programming-Homework\PrintNumberSequence\bin\Debug\PrintNumberSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintNumberSequence\obj\x86\Debug\ResolveAssemblyReference.cache

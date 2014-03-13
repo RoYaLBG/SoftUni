@@ -1,0 +1,10 @@
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintName\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintName\obj\x86\Debug\PrintName.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintName\obj\x86\Debug\PrintName.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintName\obj\x86\Debug\PrintName.exe
+D:\SoftUni\Intro-Programming-Homework\PrintName\obj\x86\Debug\PrintName.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.exe
+D:\SoftUni\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintName\obj\x86\Debug\ResolveAssemblyReference.cache

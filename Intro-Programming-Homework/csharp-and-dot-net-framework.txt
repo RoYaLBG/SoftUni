@@ -1,0 +1,3 @@
+It's hard to talk about similarities between .NET and C#, as they are natively different as how a Car and a Road are different.
+.NET is a framework with a main-role of virtual machine, where C# is interpreted. On the other hand C# is programming language. There's no most in common, except the fact that C# program cannot rund without the .NET framework installed on the machine.
+

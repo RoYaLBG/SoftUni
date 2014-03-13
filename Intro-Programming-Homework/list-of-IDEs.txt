@@ -1,0 +1,18 @@
+- Visual Studio
+- NetBeans
+- Eclipse
+- Aptana
+- Vim
+
+---
+
+- Visual Studio is one of the most popular IDEs which supports most of the modern languages. But it's mostly used for the microsoft's languages (C#, Visual Basic, Visual C++, Visual FoxPro...). It comes with packages for the whole .NET framework.
+
+- NeatBeans is the most popular PHP IDE. It's also widespread in the Java community. For PHP development it has integrated tools for the major frameworks such as Zend, Symfony, etc... 
+
+- Eclipse is most popular in Java community. People do write in PHP in it too, but it's no so common. Like NetBeans it's integrated for the common modern strategies in Java too. 
+
+- Aptana is built on the top of Eclipse and is generaly made for programming in Ruby. All of the IDE's so far are similar each other to their common programming language - standard libs, intellisense, version controlling, start/run, debug, etc...
+
+- Vim, despite the fact it's cross platform, is widely used in the Linux/Unix users. Started as text editor, it now support, by adding some plugins, an IDE level of developing applications. It can be ported to support the standards of the major programming languages.
+

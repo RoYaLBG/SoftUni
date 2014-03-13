@@ -1,0 +1,14 @@
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintFirstLastName\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintName.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintName.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintFirstLastName\obj\x86\Debug\PrintFirstLastName.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintFirstLastName\obj\x86\Debug\PrintFirstLastName.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintFirstLastName\obj\x86\Debug\PrintFirstLastName.exe
+D:\SoftUni\Intro-Programming-Homework\PrintFirstLastName\obj\x86\Debug\PrintFirstLastName.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe
+D:\SoftUni\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintFirstLastName.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintName.exe
+D:\SoftUni\Intro-Programming-Homework\PrintFirstLastName\bin\Debug\PrintName.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintFirstLastName\obj\x86\Debug\ResolveAssemblyReference.cache

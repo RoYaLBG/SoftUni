@@ -1,0 +1,14 @@
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintLongSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintNumberSequence.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintNumberSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintLongSequence\obj\x86\Debug\PrintLongSequence.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PrintLongSequence\obj\x86\Debug\PrintLongSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintLongSequence\obj\x86\Debug\PrintLongSequence.exe
+D:\SoftUni\Intro-Programming-Homework\PrintLongSequence\obj\x86\Debug\PrintLongSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\SoftUni\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintNumberSequence.exe
+D:\SoftUni\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintNumberSequence.pdb
+D:\SoftUni\Intro-Programming-Homework\PrintLongSequence\obj\x86\Debug\ResolveAssemblyReference.cache

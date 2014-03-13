@@ -1,0 +1,10 @@
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CleanCode\bin\Debug\CleanCode.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CleanCode\bin\Debug\CleanCode.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CleanCode\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CleanCode\obj\x86\Debug\CleanCode.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CleanCode\obj\x86\Debug\CleanCode.pdb
+D:\SoftUni\Intro-Programming-Homework\CleanCode\obj\x86\Debug\CleanCode.exe
+D:\SoftUni\Intro-Programming-Homework\CleanCode\obj\x86\Debug\CleanCode.pdb
+D:\SoftUni\Intro-Programming-Homework\CleanCode\bin\Debug\CleanCode.exe
+D:\SoftUni\Intro-Programming-Homework\CleanCode\bin\Debug\CleanCode.pdb
+D:\SoftUni\Intro-Programming-Homework\CleanCode\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\VariableDeclaration\bin\Debug\VariableDeclaration.exe
+D:\SoftUni\Primitive-data-types\VariableDeclaration\bin\Debug\VariableDeclaration.pdb
+D:\SoftUni\Primitive-data-types\VariableDeclaration\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\VariableDeclaration\obj\x86\Debug\VariableDeclaration.exe
+D:\SoftUni\Primitive-data-types\VariableDeclaration\obj\x86\Debug\VariableDeclaration.pdb

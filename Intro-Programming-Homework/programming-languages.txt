@@ -1,0 +1,23 @@
+The most popular 5 programming languages nowadays (except C#) are:
+
+- C
+- Java
+- Ruby
+- Python
+- PHP
+
+Despite the fact C is the oldest of them, it's still widely used in new applications, and people are mostly hired for it worldwide.
+
+However, other core languages, that has built the modern programming world are loosing positions such as C++, Pascal, Delphi and (Visual) Basic. According to the charts, C++ is still in top 10 and maybe will not get out from it soon.
+
+----
+
+- C# is built on the top of C. They are very close each other of syntax. Except that native C is procedural, but C# needs all the logic encapsulated in classes. C compiles directly to the processors microlevel, but C# uses a virtual machine to inerpret the compilation.
+
+- Java appears to the world 6 years before C# and maybe is the main inspiration by which Microsoft has built C#. One of the few two languages that are syntactially very similar each other. They are both only object oriented, and the OOP style is one and same in both. Talking about differences between these two languages should be done by an experienced developer, because to a newcomer they are all the same, however while C# has lambdas, LINQ, operator overloading and user-defined value types - Java does not. The languages compete each other very much, Java 8 will have some of these features. Java is still considered platform-independent, while C# is not.
+
+- Ruby has not much in common with C#. Neither syntax, nor the compilation/inerpretation is the same. Ruby has grown interest in people with the release of the Rails platform, which has made the Ruby on Rails developer one of the best-paid position in this circle. After releasing RoR, the ASP.NET MVC framework has been released which supports C# in web technologies. This framework was inspired by Rails, which might be the equalities between C# and Ruby.
+
+- Python also is not so equal to C#. The major differences are on each level. Syntactically different. Type differences - Python is scripting language. 
+
+- PHP - I might regret for these lines. The war between PHP and C# is never-ending. The .NET community presents C# as completely different language than PHP and on the other hand presents PHP as harm for the developer. The major difference between them is that PHP is mostly for WEB applications, while C# can be for desktop too. However, they are syntactically very similar each other. PHP uses the Java's OOP model, C# too. Well, PHP uses interpreter, while C# compiles, so their runtime level is different. Despite the hate to PHP from the .NET community, my personal oppinion is that PHP (5.5) and its major frameworks (CakePHP, Laravel...) is/are the best language for web applications so far. C# for this purpose is overkill (a lot of more resources should be spent in order to run the same application in C#).

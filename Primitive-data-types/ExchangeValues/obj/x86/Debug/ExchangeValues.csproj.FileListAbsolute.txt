@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\ExchangeValues\bin\Debug\ExchangeValues.exe
+D:\SoftUni\Primitive-data-types\ExchangeValues\bin\Debug\ExchangeValues.pdb
+D:\SoftUni\Primitive-data-types\ExchangeValues\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\ExchangeValues\obj\x86\Debug\ExchangeValues.exe
+D:\SoftUni\Primitive-data-types\ExchangeValues\obj\x86\Debug\ExchangeValues.pdb

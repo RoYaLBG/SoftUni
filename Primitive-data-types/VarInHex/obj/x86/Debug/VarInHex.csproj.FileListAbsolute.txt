@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\VarInHex\bin\Debug\VarInHex.exe
+D:\SoftUni\Primitive-data-types\VarInHex\bin\Debug\VarInHex.pdb
+D:\SoftUni\Primitive-data-types\VarInHex\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\VarInHex\obj\x86\Debug\VarInHex.exe
+D:\SoftUni\Primitive-data-types\VarInHex\obj\x86\Debug\VarInHex.pdb

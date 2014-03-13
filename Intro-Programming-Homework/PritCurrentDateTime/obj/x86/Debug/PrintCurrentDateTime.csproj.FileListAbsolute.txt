@@ -1,0 +1,10 @@
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PritCurrentDateTime\bin\Debug\PritCurrentDateTime.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PritCurrentDateTime\bin\Debug\PritCurrentDateTime.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PritCurrentDateTime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PritCurrentDateTime\obj\x86\Debug\PritCurrentDateTime.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\PritCurrentDateTime\obj\x86\Debug\PritCurrentDateTime.pdb
+D:\SoftUni\Intro-Programming-Homework\PritCurrentDateTime\obj\x86\Debug\PritCurrentDateTime.exe
+D:\SoftUni\Intro-Programming-Homework\PritCurrentDateTime\obj\x86\Debug\PritCurrentDateTime.pdb
+D:\SoftUni\Intro-Programming-Homework\PritCurrentDateTime\bin\Debug\PritCurrentDateTime.exe
+D:\SoftUni\Intro-Programming-Homework\PritCurrentDateTime\bin\Debug\PritCurrentDateTime.pdb
+D:\SoftUni\Intro-Programming-Homework\PritCurrentDateTime\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\UnicodeChar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\UnicodeChar\bin\Debug\UnicodeChar.exe
+D:\SoftUni\Primitive-data-types\UnicodeChar\bin\Debug\UnicodeChar.pdb
+D:\SoftUni\Primitive-data-types\UnicodeChar\obj\x86\Debug\UnicodeChar.exe
+D:\SoftUni\Primitive-data-types\UnicodeChar\obj\x86\Debug\UnicodeChar.pdb

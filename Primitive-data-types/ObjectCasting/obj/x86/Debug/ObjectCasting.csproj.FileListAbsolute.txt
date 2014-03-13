@@ -1,0 +1,5 @@
+D:\SoftUni\Primitive-data-types\ObjectCasting\bin\Debug\ObjectCasting.exe
+D:\SoftUni\Primitive-data-types\ObjectCasting\bin\Debug\ObjectCasting.pdb
+D:\SoftUni\Primitive-data-types\ObjectCasting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Primitive-data-types\ObjectCasting\obj\x86\Debug\ObjectCasting.exe
+D:\SoftUni\Primitive-data-types\ObjectCasting\obj\x86\Debug\ObjectCasting.pdb

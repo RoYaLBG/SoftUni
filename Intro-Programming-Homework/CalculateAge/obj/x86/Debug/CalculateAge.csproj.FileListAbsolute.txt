@@ -1,0 +1,7 @@
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateAge\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateAge\bin\Debug\CalculateAge.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateAge\bin\Debug\CalculateAge.pdb
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateAge\obj\x86\Debug\CalculateAge.exe
+D:\SoftUni\Intro-Programming-Homework\HelloCSharp\Intro-Programming-Homework\CalculateAge\obj\x86\Debug\CalculateAge.pdb
+D:\SoftUni\Intro-Programming-Homework\CalculateAge\obj\x86\Debug\CalculateAge.exe
+D:\SoftUni\Intro-Programming-Homework\CalculateAge\obj\x86\Debug\CalculateAge.pdb

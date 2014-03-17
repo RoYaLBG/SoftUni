@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\SoftUni\OperatorsExpressionsStatements\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\SoftUni\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.exe
+D:\SoftUni\OperatorsExpressionsStatements\TrapezoidArea\obj\x86\Debug\TrapezoidArea.pdb

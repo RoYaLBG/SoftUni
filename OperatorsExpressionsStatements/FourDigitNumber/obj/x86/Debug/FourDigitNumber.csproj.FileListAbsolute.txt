@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+D:\SoftUni\OperatorsExpressionsStatements\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+D:\SoftUni\OperatorsExpressionsStatements\FourDigitNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\FourDigitNumber\obj\x86\Debug\FourDigitNumber.exe
+D:\SoftUni\OperatorsExpressionsStatements\FourDigitNumber\obj\x86\Debug\FourDigitNumber.pdb

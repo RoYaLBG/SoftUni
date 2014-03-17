@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\DividableBy\bin\Debug\DividableBy.exe
+D:\SoftUni\OperatorsExpressionsStatements\DividableBy\bin\Debug\DividableBy.pdb
+D:\SoftUni\OperatorsExpressionsStatements\DividableBy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\DividableBy\obj\x86\Debug\DividableBy.exe
+D:\SoftUni\OperatorsExpressionsStatements\DividableBy\obj\x86\Debug\DividableBy.pdb

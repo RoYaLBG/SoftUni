@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\FindThirdDigit\bin\Debug\FindThirdDigit.exe
+D:\SoftUni\OperatorsExpressionsStatements\FindThirdDigit\bin\Debug\FindThirdDigit.pdb
+D:\SoftUni\OperatorsExpressionsStatements\FindThirdDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\FindThirdDigit\obj\x86\Debug\FindThirdDigit.exe
+D:\SoftUni\OperatorsExpressionsStatements\FindThirdDigit\obj\x86\Debug\FindThirdDigit.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\RectangleMath\bin\Debug\RectangleMath.exe
+D:\SoftUni\OperatorsExpressionsStatements\RectangleMath\bin\Debug\RectangleMath.pdb
+D:\SoftUni\OperatorsExpressionsStatements\RectangleMath\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\RectangleMath\obj\x86\Debug\RectangleMath.exe
+D:\SoftUni\OperatorsExpressionsStatements\RectangleMath\obj\x86\Debug\RectangleMath.pdb

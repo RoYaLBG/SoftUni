@@ -4,10 +4,10 @@ class VariableDeclaration
 {
     static void Main(string[] args)
     {
-        ushort MostFittableUshort = 52130;
-        sbyte MostFittableSbyte = -115;
-        int MostFittableInteger = 4825932;
-        byte MostFittableByte = 97;
-        short MostFittableShort = -10000;
+        ushort mostFittableUshort = 52130;
+        sbyte mostFittableSbyte = -115;
+        int mostFittableInteger = 4825932;
+        byte mostFittableByte = 97;
+        short mostFittableShort = -10000;
     }
 }

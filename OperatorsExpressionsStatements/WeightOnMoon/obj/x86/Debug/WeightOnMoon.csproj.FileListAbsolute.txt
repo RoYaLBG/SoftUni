@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\WeightOnMoon\bin\Debug\WeightOnMoon.exe
+D:\SoftUni\OperatorsExpressionsStatements\WeightOnMoon\bin\Debug\WeightOnMoon.pdb
+D:\SoftUni\OperatorsExpressionsStatements\WeightOnMoon\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\WeightOnMoon\obj\x86\Debug\WeightOnMoon.exe
+D:\SoftUni\OperatorsExpressionsStatements\WeightOnMoon\obj\x86\Debug\WeightOnMoon.pdb

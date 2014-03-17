@@ -5,16 +5,16 @@ class Employee
 
     static void Main(string[] args)
     {
-        String FirstName = "Ivan";
-        String LastName = "Yonkov";
-        int Age = 21;
+        String firstName = "Ivan";
+        String lastName = "Yonkov";
+        int age = 21;
         long PID = 8306112507;
-        int Employee_ID = 27563333;
-        String Gender = "m";
+        int employee_ID = 27563333;
+        String gender = "m";
         try
         {
-            checkEmployeeNumber(Employee_ID);
-            checkGender(Gender);
+            checkEmployeeNumber(employee_ID);
+            checkGender(gender);
         }
         catch (Exception e)
         {
@@ -22,11 +22,11 @@ class Employee
             return;
         }
 
-        Console.WriteLine(FirstName);
-        Console.WriteLine(LastName);
-        Console.WriteLine(Age);
+        Console.WriteLine(firstName);
+        Console.WriteLine(lastName);
+        Console.WriteLine(age);
         Console.WriteLine(PID);
-        Console.WriteLine(Employee_ID);
+        Console.WriteLine(employee_ID);
     }
 
     private static void checkEmployeeNumber(int num)
@@ -37,9 +37,9 @@ class Employee
         }
     }
 
-    private static void checkGender(String Gender)
+    private static void checkGender(String gender)
     {
-        if (Gender != "m" && Gender != "f")
+        if (gender != "m" && gender != "f")
         {
             throw new Exception("Invalid Gender");
         }

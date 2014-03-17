@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\PointInCircle\bin\Debug\PointInCircle.exe
+D:\SoftUni\OperatorsExpressionsStatements\PointInCircle\bin\Debug\PointInCircle.pdb
+D:\SoftUni\OperatorsExpressionsStatements\PointInCircle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\PointInCircle\obj\x86\Debug\PointInCircle.exe
+D:\SoftUni\OperatorsExpressionsStatements\PointInCircle\obj\x86\Debug\PointInCircle.pdb

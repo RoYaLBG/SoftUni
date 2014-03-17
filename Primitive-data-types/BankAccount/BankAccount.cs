@@ -6,26 +6,26 @@ class BankAccount
 {
     static void Main(string[] args)
     {
-        OrderedDictionary Holder = new OrderedDictionary();
+        OrderedDictionary holder = new OrderedDictionary();
         Console.WriteLine("Please enter your name:");
-        Holder.Add("First_Name", Console.ReadLine());
+        holder.Add("First_Name", Console.ReadLine());
         Console.WriteLine("Please enter your middle name:");
-        Holder.Add("Middle_Name", Console.ReadLine());
+        holder.Add("Middle_Name", Console.ReadLine());
         Console.WriteLine("Please enter your last name:");
-        Holder.Add("Last_Name", Console.ReadLine());
+        holder.Add("Last_Name", Console.ReadLine());
         Console.WriteLine("Balance:");
-        long Balance = Convert.ToInt64(Console.ReadLine());
+        decimal balance = Convert.ToDecimal(Console.ReadLine());
         Console.WriteLine("IBAN:");
         ulong IBAN = Convert.ToUInt64(Console.ReadLine());
         Console.WriteLine("Bank name:");
-        String BankName = Console.ReadLine(); ;
-        OrderedDictionary CreditCard = new OrderedDictionary();
+        String bankName = Console.ReadLine(); ;
+        OrderedDictionary creditCard = new OrderedDictionary();
         Console.WriteLine("First Bank Account:");
-        CreditCard.Add("Account1", Console.ReadLine());
+        creditCard.Add("Account1", Console.ReadLine());
         Console.WriteLine("Second Bank Account:");
-        CreditCard.Add("Account2", Console.ReadLine());
+        creditCard.Add("Account2", Console.ReadLine());
         Console.WriteLine("Third Bank Account:");
-        CreditCard.Add("Account3", Console.ReadLine());
+        creditCard.Add("Account3", Console.ReadLine());
     }
 }
 

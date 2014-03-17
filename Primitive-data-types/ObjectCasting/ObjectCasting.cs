@@ -4,12 +4,12 @@ class ObjectCasting
 {
     static void Main(string[] args)
     {
-        String Hello = "Hello";
-        String World = "World";
+        String hello = "Hello";
+        String world = "World";
 
-        Object HelloWorld_Obj = Hello + " " + World;
+        Object HelloWorld_Obj = hello + " " + world;
 
-        String HelloWorld = HelloWorld_Obj.ToString();
+        String helloWorld = HelloWorld_Obj.ToString();
     }
 }
 

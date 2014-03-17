@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\PrimeCheck\bin\Debug\PrimeCheck.exe
+D:\SoftUni\OperatorsExpressionsStatements\PrimeCheck\bin\Debug\PrimeCheck.pdb
+D:\SoftUni\OperatorsExpressionsStatements\PrimeCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\PrimeCheck\obj\x86\Debug\PrimeCheck.exe
+D:\SoftUni\OperatorsExpressionsStatements\PrimeCheck\obj\x86\Debug\PrimeCheck.pdb

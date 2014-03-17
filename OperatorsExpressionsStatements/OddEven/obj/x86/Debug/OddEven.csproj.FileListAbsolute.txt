@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\OddEven\bin\Debug\OddEven.exe
+D:\SoftUni\OperatorsExpressionsStatements\OddEven\bin\Debug\OddEven.pdb
+D:\SoftUni\OperatorsExpressionsStatements\OddEven\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\OddEven\obj\x86\Debug\OddEven.exe
+D:\SoftUni\OperatorsExpressionsStatements\OddEven\obj\x86\Debug\OddEven.pdb

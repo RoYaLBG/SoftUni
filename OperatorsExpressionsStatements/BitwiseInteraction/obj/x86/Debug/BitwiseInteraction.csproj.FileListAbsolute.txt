@@ -1,0 +1,5 @@
+D:\SoftUni\OperatorsExpressionsStatements\BitwiseInteraction\bin\Debug\BitwiseInteraction.exe
+D:\SoftUni\OperatorsExpressionsStatements\BitwiseInteraction\bin\Debug\BitwiseInteraction.pdb
+D:\SoftUni\OperatorsExpressionsStatements\BitwiseInteraction\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\OperatorsExpressionsStatements\BitwiseInteraction\obj\x86\Debug\BitwiseInteraction.exe
+D:\SoftUni\OperatorsExpressionsStatements\BitwiseInteraction\obj\x86\Debug\BitwiseInteraction.pdb

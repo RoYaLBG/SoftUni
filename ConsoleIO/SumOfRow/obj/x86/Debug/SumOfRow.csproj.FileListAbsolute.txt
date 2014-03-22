@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\SumOfRow\bin\Debug\SumOfRow.exe
+D:\SoftUni\ConsoleIO\SumOfRow\bin\Debug\SumOfRow.pdb
+D:\SoftUni\ConsoleIO\SumOfRow\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\SumOfRow\obj\x86\Debug\SumOfRow.exe
+D:\SoftUni\ConsoleIO\SumOfRow\obj\x86\Debug\SumOfRow.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\CirclePermieterArea\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\CirclePermieterArea\bin\Debug\CirclePermieterArea.exe
+D:\SoftUni\ConsoleIO\CirclePermieterArea\bin\Debug\CirclePermieterArea.pdb
+D:\SoftUni\ConsoleIO\CirclePermieterArea\obj\x86\Debug\CirclePermieterArea.exe
+D:\SoftUni\ConsoleIO\CirclePermieterArea\obj\x86\Debug\CirclePermieterArea.pdb

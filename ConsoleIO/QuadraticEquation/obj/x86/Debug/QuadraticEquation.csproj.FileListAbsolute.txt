@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\SoftUni\ConsoleIO\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\SoftUni\ConsoleIO\QuadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\QuadraticEquation\obj\x86\Debug\QuadraticEquation.exe
+D:\SoftUni\ConsoleIO\QuadraticEquation\obj\x86\Debug\QuadraticEquation.pdb

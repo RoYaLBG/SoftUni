@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\NumberComparer\bin\Debug\NumberComparer.exe
+D:\SoftUni\ConsoleIO\NumberComparer\bin\Debug\NumberComparer.pdb
+D:\SoftUni\ConsoleIO\NumberComparer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\NumberComparer\obj\x86\Debug\NumberComparer.exe
+D:\SoftUni\ConsoleIO\NumberComparer\obj\x86\Debug\NumberComparer.pdb

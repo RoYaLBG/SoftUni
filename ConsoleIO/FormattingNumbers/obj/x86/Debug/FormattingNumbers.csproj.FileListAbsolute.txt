@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+D:\SoftUni\ConsoleIO\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+D:\SoftUni\ConsoleIO\FormattingNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\FormattingNumbers\obj\x86\Debug\FormattingNumbers.exe
+D:\SoftUni\ConsoleIO\FormattingNumbers\obj\x86\Debug\FormattingNumbers.pdb

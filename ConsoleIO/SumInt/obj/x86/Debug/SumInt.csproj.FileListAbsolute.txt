@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\SumInt\bin\Debug\SumInt.exe
+D:\SoftUni\ConsoleIO\SumInt\bin\Debug\SumInt.pdb
+D:\SoftUni\ConsoleIO\SumInt\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\SumInt\obj\x86\Debug\SumInt.exe
+D:\SoftUni\ConsoleIO\SumInt\obj\x86\Debug\SumInt.pdb

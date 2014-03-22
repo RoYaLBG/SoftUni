@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\SumNumberToN\bin\Debug\SumNumberToN.exe
+D:\SoftUni\ConsoleIO\SumNumberToN\bin\Debug\SumNumberToN.pdb
+D:\SoftUni\ConsoleIO\SumNumberToN\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\SumNumberToN\obj\x86\Debug\SumNumberToN.exe
+D:\SoftUni\ConsoleIO\SumNumberToN\obj\x86\Debug\SumNumberToN.pdb

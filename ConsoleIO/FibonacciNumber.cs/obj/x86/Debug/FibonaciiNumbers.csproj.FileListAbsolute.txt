@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\FibonacciNumber.cs\bin\Debug\FibonacciNumber.cs.exe
+D:\SoftUni\ConsoleIO\FibonacciNumber.cs\bin\Debug\FibonacciNumber.cs.pdb
+D:\SoftUni\ConsoleIO\FibonacciNumber.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\FibonacciNumber.cs\obj\x86\Debug\FibonacciNumber.cs.exe
+D:\SoftUni\ConsoleIO\FibonacciNumber.cs\obj\x86\Debug\FibonacciNumber.cs.pdb

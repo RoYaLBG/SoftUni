@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\CompanyInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\CompanyInfo\obj\x86\Debug\CompanyInfo.exe
+D:\SoftUni\ConsoleIO\CompanyInfo\obj\x86\Debug\CompanyInfo.pdb
+D:\SoftUni\ConsoleIO\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\SoftUni\ConsoleIO\CompanyInfo\bin\Debug\CompanyInfo.pdb

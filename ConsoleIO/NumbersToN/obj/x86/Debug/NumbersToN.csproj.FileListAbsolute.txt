@@ -1,0 +1,5 @@
+D:\SoftUni\ConsoleIO\NumbersToN\bin\Debug\NumbersToN.exe
+D:\SoftUni\ConsoleIO\NumbersToN\bin\Debug\NumbersToN.pdb
+D:\SoftUni\ConsoleIO\NumbersToN\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftUni\ConsoleIO\NumbersToN\obj\x86\Debug\NumbersToN.exe
+D:\SoftUni\ConsoleIO\NumbersToN\obj\x86\Debug\NumbersToN.pdb
